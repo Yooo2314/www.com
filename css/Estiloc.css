@@ -1,0 +1,117 @@
+*{
+    margin: 0;    
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+  background-color: rgb(228, 228, 228);
+ 
+}
+
+/* REGISTRO */
+.registro {
+  width: 400px;
+  background: rgb(243, 243, 243);
+  padding: 30px;
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: 380px;
+  border-radius: 4px;
+  font-family: 'calibri';
+  color: #686868;
+
+}
+
+.registro h4 {
+  font-size: 22px;
+  margin-bottom: 20px;
+}
+
+/* Genero /
+/ LENGUAJES PROGRAMACION */
+.dato {
+  width: 100%;
+  background: rgb(228, 228, 228);
+  padding: 10px;
+  border-radius: 19px;
+  margin-bottom: 16px;
+  border: 1px solid #000000;
+  font-family: 'calibri';
+  font-size: 18px;
+  color: #686868;
+
+}
+
+
+/* ¿Ya tengo Cuenta? */
+.registro p {
+  height: 40px;
+  text-align: center;
+  font-size: 18px;
+  line-height: 40px;
+
+
+}
+
+.registro a {
+  color: #686868;
+  text-decoration: none;
+}
+
+.registro a:hover {
+  color: #000;
+  text-decoration: underline;
+}
+
+ /* BOTON */
+.registro .boton {
+  margin-left: 40px;
+  background: #000000;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: white;
+  font-size: 16px;
+  border-radius: 30px;
+}
+
+.name{
+  color: #686868;
+}
+
+ /*FOOTER*/
+
+ footer{
+  background: #05bbb8ab;
+}
+
+.foter1{
+  width: 50px;
+  height: 50px;
+  margin-left:  150vh;
+}
+.foter2{
+width: 40px;
+height: 40px;
+margin-bottom: 5px;
+}
+h6{
+margin-left:  145vh;
+font-size: 27px;
+}
+
+.hh{
+font-size: 30px;
+margin-left: 470px;
+margin-top: 10px;
+position: absolute;
+}
+.pp{
+margin-left: 400px;
+font-size: 20px;
+margin-top: 50px;
+position: absolute;
+}
